@@ -1,0 +1,1 @@
+powershell .\ADHealthCheck.ps1
